@@ -1,0 +1,1 @@
+This is the backend app for a Notes App using the MERN stack
